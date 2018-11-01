@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A32069A2-2CEF-48D1-8166-230FBFF768FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 9880,
+    "x": 0,
+    "y": -124
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "35DA769A-ADBD-41B6-B054-ACA5CC192461"
+    },
+    {
+      "class": "text",
+      "id": "787ED01D-D8DA-49E3-8EF0-0480CFB24DE2"
+    },
+    {
+      "class": "text",
+      "id": "9978E3D1-EA20-4A87-BE28-A798931A3689"
+    },
+    {
+      "class": "text",
+      "id": "2B1D13C1-A9DE-4D56-ADA4-081E5F6BFF73"
+    },
+    {
+      "class": "text",
+      "id": "7609E846-89C2-46E8-91F6-0BBEB3CD3137"
+    },
+    {
+      "class": "text",
+      "id": "928A5EF1-01C5-4D5E-A83A-18349100A060"
+    },
+    {
+      "class": "text",
+      "id": "CA21B229-9A18-4DEC-88D8-00A5E48A2079"
+    },
+    {
+      "class": "text",
+      "id": "67CCCAF4-FFFD-4206-A6C4-05BB24B41A82"
+    },
+    {
+      "class": "text",
+      "id": "4B051400-0F17-47BF-98DA-859916724853"
+    },
+    {
+      "class": "text",
+      "id": "A112A6D1-7CA2-4648-862E-2AEF381F89B5"
+    },
+    {
+      "class": "text",
+      "id": "98C3393A-40E1-41C7-A342-011E574293DC"
+    },
+    {
+      "class": "text",
+      "id": "0A87E5E3-AE56-4635-B482-AA1704A1EA9E"
+    },
+    {
+      "class": "text",
+      "id": "5B761EFE-4C7D-464A-B281-521711DB827B"
+    },
+    {
+      "class": "text",
+      "id": "F21FCF79-FC74-45F8-A481-6ED2B9CB9A0C"
+    },
+    {
+      "class": "text",
+      "id": "0C223C6E-B712-42B9-B848-1D7071457746"
+    },
+    {
+      "class": "text",
+      "id": "6A145251-45E9-44BF-9731-3BBD32C29F4E"
+    }
+  ],
+  "name": "Titles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

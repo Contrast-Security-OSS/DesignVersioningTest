@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "86F9AED9-28B7-4828-9795-B4967B3160AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A618D128-6066-472C-B464-AC0A5FDF8438",
+    "height": 76,
+    "width": 316,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A9E793B5-01E0-4992-B382-A81DE1AAB3AE"
+    },
+    {
+      "class": "text",
+      "id": "B16BEB39-5A2A-4F8F-9163-649F9120487F"
+    },
+    {
+      "class": "text",
+      "id": "8D50847B-8C8F-46B1-A850-2BFD72B7D8C3"
+    },
+    {
+      "class": "text",
+      "id": "321999A8-5E27-4CFC-BAAF-A5CE7D5F6EE5"
+    }
+  ],
+  "name": "Group 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "74E10C91-DD8A-4A12-AED2-3106CF43DC8C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "91EEE7FC-1D40-4B10-B782-318D5F97C067",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "C49FE898-0775-43D3-9951-107DD7C0A67D",
+        "version": 1
+      }
+    }
+  }
+}

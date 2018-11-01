@@ -1,0 +1,109 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A50A7D16-5EC2-4584-BB72-60AB25B92C34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -497,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B7AE67B4-3137-42C8-B4BC-F8F1BC6D123B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C0A84ED-CE7D-4473-93B2-52029D2BC0BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "325AD5E4-6126-4000-B2F7-015BE2C5B5EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "428284E9-031D-46B7-B687-041CD49CD0C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E18B2E84-3537-4F89-B616-2B466C8337C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F3FCD6D-3B30-42C9-9F2C-6420B217F088"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "770507E0-BF75-4F9D-9F3D-40C03585AF09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD8F07CE-F06B-400F-B608-A67A9CA49766"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96B26DA8-403D-4A96-AA98-8B1E1A92526C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "165F9B12-F780-4159-81DD-11736C59D9EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B832E34-4CB7-4EDF-95C1-025C981C7281"
+    },
+    {
+      "class": "rectangle",
+      "id": "3752155F-8302-49D6-AC9D-9A17F6D962BB"
+    }
+  ],
+  "name": "Buttons",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -448,
+    "guides": [
+    ]
+  }
+}
